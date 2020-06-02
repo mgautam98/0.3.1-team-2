@@ -6,12 +6,12 @@ makedocs(;
     pages=[
         "Home" => "index.md",
     ],
-    repo="https://github.com/dnabanita7/gazel/blob/{commit}{path}#L{line}",
+    repo="https://github.com/MLH-Fellowship/0.3.1-team-2/blob/{commit}{path}#L{line}",
     sitename="gazel",
     authors="Nabanita Dash, Biswajit Ghosh, Gautam Mishra",
     assets=String[],
 )
 
 deploydocs(;
-    repo="github.com/dnabanita7/gazel",
+    repo="github.com/MLH-Fellowship/0.3.1-team-2",
 )
