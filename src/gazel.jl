@@ -1,4 +1,4 @@
-module 0.3.1-team-2
+module gazel
 
 greet() = print("Hello World!")
 

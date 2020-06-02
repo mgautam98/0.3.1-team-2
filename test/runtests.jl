@@ -1,6 +1,6 @@
-using 0.3.1-team-2
+using gazel
 using Test
 
-@testset "0.3.1-team-2" begin
+@testset "gazel" begin
     # Write your own tests here.
 end

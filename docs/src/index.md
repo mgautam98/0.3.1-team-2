@@ -1,8 +1,8 @@
-# 0.3.1-team-2
+# gazel
 
 ```@index
 ```
 
 ```@autodocs
-Modules = [0.3.1-team-2]
+Modules = [gazel]
 ```
