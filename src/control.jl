@@ -28,5 +28,5 @@ eDP-1
 ```
 """
 function _getDisplay()
-run(pipeline(`xrandr -q`,`grep " connected"`))
+run(pipeline(`xrandr -q`,`grep " connected"`, "config"))
 end
